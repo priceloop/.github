@@ -22,4 +22,4 @@ In particular, we are building a NoCode platform that enables businesses and IT 
 # Stay in touch
 You can follow us on [Linkedin](https://www.linkedin.com/company/priceloop-ai/) where we share what's new, our events and also occasionally some memes.
 
-📫 If you have questions or feedback you can reach us at <hello@priceloop.ai>.
+📫 If you have questions or feedback, you can reach us at <hello@priceloop.ai>.
