@@ -14,7 +14,8 @@ In particular, we are building a NoCode platform that enables businesses and IT 
 
 # Start building now and join our community
 
-👉 Sign up to Priceloop: https://alpha.priceloop.ai/
+👉 Sign up to Priceloop: https://alpha.priceloop.ai
+
 💬 Join our Slack Community: https://join.slack.com/t/priceloopcommunity/shared_invite/zt-1gmpjkkeq-IrKF_ZHgUHUIrlbFXj8ONQ
 
 
