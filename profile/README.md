@@ -6,11 +6,13 @@ In particular, we are building a NoCode platform that enables businesses and IT 
 
 🧮 A powerful spreadsheet that can handle millions of rows
 
-🧲 Many built-in and custom functions: you can easily write external function in Python and use it in the spreadsheet
+🧲 Many built-in and custom functions: you can easily write functions in Python/go and use them in spreadsheet formulas
 
-🔮 Autosuggestion and syntax highlighting when creating formulas; kind of a powerful IDE for spreadsheet formulas
+🔮 Autosuggestion and syntax highlighting when creating formulas with type checking; kind of a powerful IDE for spreadsheet formulas
 
-🔌 An easy API interface to interact with the spreadsheet
+🔌 An easy API interface and command line tool to interact with the spreadsheet
+
+😍 And much more to come (version control, more data integration possibilities etc.)
 
 # Start building now and join our community
 
